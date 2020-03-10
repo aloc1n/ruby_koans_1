@@ -1,8 +1,3 @@
-dist
-.project_env.rc
-.path_progress
-.rvmrc
-.ruby-version
-*.rbc
-koans/*
-*~
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
